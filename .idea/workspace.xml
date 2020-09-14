@@ -29,7 +29,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../TEST/src/Main.java" />
   </component>
-  <component name="RunManager" selected="Application.DAY_5_LOOPS">
+  <component name="RunManager" selected="Application.DAY_7_ARRAYS">
     <configuration name="DAY_3_INTROTOCONDITIONALSTATEMENTS" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="DAY_3_INTROTOCONDITIONALSTATEMENTS" />
       <module name="Hackerrank_Java" />
@@ -44,8 +44,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="DAY_7_ARRAYS" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DAY_7_ARRAYS" />
+      <module name="Hackerrank_Java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.DAY_7_ARRAYS" />
         <item itemvalue="Application.DAY_5_LOOPS" />
         <item itemvalue="Application.DAY_3_INTROTOCONDITIONALSTATEMENTS" />
       </list>
